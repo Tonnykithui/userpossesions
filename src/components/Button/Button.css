@@ -1,0 +1,40 @@
+.btn{
+    padding: 4px 8px;
+    outline: none;
+    border: none;
+    font-weight: 600;
+    text-align: center;
+}
+
+.primary{
+    background-color: rgb(101, 27, 185);
+}
+
+.danger{
+    background: red;
+    color: whitesmoke;
+}
+
+.seconday{
+    background-color: rgb(15, 12, 15);
+}
+
+.btn-small{
+    padding: 2px 4px;
+}
+
+.btn-medium{
+    padding: 5px 8px;
+}
+
+.btn-large{
+    padding: 6px 10px;
+}
+
+.btn-rounded{
+    border-radius: 8px;
+}
+
+.btn-normal{
+    border-radius: none;
+}
